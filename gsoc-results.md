@@ -33,10 +33,10 @@ Missing features:
 Code:
 
 libqxp
-https://gerrit.libreoffice.org/gitweb?p=libqxp.git&a=search&h=HEAD&st=author&s=alex
+[https://gerrit.libreoffice.org/gitweb?p=libqxp.git&a=search&h=HEAD&st=author&s=alex](https://gerrit.libreoffice.org/gitweb?p=libqxp.git&a=search&h=HEAD&st=author&s=alex)
 
 libqxp-test
-<a href="https://gerrit.libreoffice.org/gitweb?p=libqxp-test.git&a=search&h=HEAD&st=author&s=alex">https://gerrit.libreoffice.org/gitweb?p=libqxp-test.git&a=search&h=HEAD&st=author&s=alex</a>
+[https://gerrit.libreoffice.org/gitweb?p=libqxp-test.git&a=search&h=HEAD&st=author&s=alex](https://gerrit.libreoffice.org/gitweb?p=libqxp-test.git&a=search&h=HEAD&st=author&s=alex)
 
 OleToy, reverse engineering of qxp3.3-4.0
-<a href="https://github.com/renyxa/re-lab/commits/master?author=alex.pantec@gmail.com">https://github.com/renyxa/re-lab/commits/master?author=alex.pantec@gmail.com</a>
+[https://github.com/renyxa/re-lab/commits/master?author=alex.pantec@gmail.com](https://github.com/renyxa/re-lab/commits/master?author=alex.pantec@gmail.com)

@@ -1,5 +1,5 @@
 ---
-title: [GSoC] QuarkXPress import, project results
+title: '[GSoC] QuarkXPress import, project results'
 ---
 
 libqxp currently supports importing of Windows and Mac 3.3-4.0 documents.

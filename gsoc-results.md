@@ -21,7 +21,7 @@ Supported features:
 Missing features:
 
 - Pictures.
-- Lists.
+- Non-English texts. Need sample docs to determine language values and encodings.
 - Columns. Not supported in librevenge (drawing interface)/LO Draw.
 - Non-rectangular box corners.
 - Custom text area shapes (for ovals, Bezier text paths, ...). Not supported in librevenge/ODF.

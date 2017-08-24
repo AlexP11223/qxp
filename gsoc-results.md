@@ -28,6 +28,8 @@ Missing features:
 - Complex dash patterns (more than 2 different dashes) and stripes. Not supported in librevenge/ODF.
 - Paragraph leading is not perfect in some cases because ODF fo:line-height works a bit differently.
 - Paragraph rule margins. Not supported in librevenge/ODF.
+- Custom kerning, tracking, hyphenation exception. Not supported in librevenge/ODF.
+- Auxiliary dictionary. Not supported in librevenge/ODF.
 - Some advanced H&J and formatting properties that are not supported (or partially supported) by ODF or LO Draw.
 - Mid-linear, diamond gradients. Not supported in librevenge/ODF.
 - Skewing.

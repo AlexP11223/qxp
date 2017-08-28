@@ -2,7 +2,7 @@
 title: '[GSoC] QuarkXPress import, project results'
 ---
 
-libqxp currently supports importing of Windows and Mac 3.1-4.0 documents.
+libqxp currently can import documents and templates created by QuarkXPress 3.1-4.1 for Windows and Mac.
 Import of text and shapes is almost complete, but it lacks pictures because reverse engineering of other parts of the format took more time than expected and picture format seems to be quite complicated too.
 
 Supported features:
@@ -15,7 +15,7 @@ Supported features:
 - Rotation.
 - Text, including linked text boxes/paths.
 - Font, size, alignment, paragraph rules, leading, H&J, tabs, bold/italic/underline/outline/shadow/strike/subscript/superscript/caps.
-- Colors (including shades), gradient (only linear, radial, rectangular).
+- Colors (including shades), gradients (only linear, radial, rectangular).
 - Line/frame color, width, line caps and corners, arrows, dashes.
 
 Missing features:
@@ -41,6 +41,9 @@ libqxp
 
 libqxp-test
 [https://gerrit.libreoffice.org/gitweb?p=libqxp-test.git&a=search&h=HEAD&st=author&s=alex](https://gerrit.libreoffice.org/gitweb?p=libqxp-test.git&a=search&h=HEAD&st=author&s=alex)
+
+libqxp integration to LibreOffice
+[https://gerrit.libreoffice.org/gitweb?p=core.git;a=commitdiff;h=e59b5b1fc7266d56a17e387b8df0f6d6956e8ea5](https://gerrit.libreoffice.org/gitweb?p=core.git;a=commitdiff;h=e59b5b1fc7266d56a17e387b8df0f6d6956e8ea5)
 
 OleToy, reverse engineering of qxp3.3-4.0
 [https://github.com/renyxa/re-lab/commits/master?author=alex.pantec@gmail.com](https://github.com/renyxa/re-lab/commits/master?author=alex.pantec@gmail.com)
